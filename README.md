@@ -5,3 +5,4 @@
 3) Tipos str (string) - introdução aos tipos de dados
 4) Tipos int e float
 5) Tipos boolean
+6) Coerção de tipos (Convertendo um tipo para outro)
