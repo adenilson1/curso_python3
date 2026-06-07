@@ -6,3 +6,4 @@
 4) Tipos int e float
 5) Tipos boolean
 6) Coerção de tipos (Convertendo um tipo para outro)
+7) Introdução às variáveis
