@@ -10,3 +10,4 @@
 8)  Exercício: variáveis e tipos de dados 
 9)  Introdução aos operadores aritméticos 
 10) Concatenação(+) e repetição(*) com operadores aritméticos
+11) Exercícico - Cálculo do IMC
