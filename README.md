@@ -11,3 +11,4 @@
 9)  Introdução aos operadores aritméticos 
 10) Concatenação(+) e repetição(*) com operadores aritméticos
 11) Exercício - Cálculo do IMC
+14) Uma introdução às f-strings (formatação de strings)
