@@ -14,3 +14,4 @@
 14) Uma introdução às f-strings (formatação de strings)
 15) Formatação de strings com método format
 16) Usando a função input
+17) Introdução aos blocos de codigos: if/elif/else (condicionais)
