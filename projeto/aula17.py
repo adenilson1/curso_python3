@@ -1,0 +1,21 @@
+# if = se
+# elif = se nao se
+# else = se nao
+condicao1 = False
+condicao2 = False
+condicao3 = True
+condicao4 = False
+
+
+if condicao1:
+    print('Condição 1')
+elif condicao2:
+    print('Condição 2')
+elif condicao3:
+    print('Condição 3')
+elif condicao4:
+    print('Condição 4')
+else:
+    print('Nenhuma condição')
+
+print('fora do bloco')
