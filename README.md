@@ -11,7 +11,7 @@
 9)  Introdução aos operadores aritméticos 
 10) Concatenação(+) e repetição(*) com operadores aritméticos
 11) Exercício - Cálculo do IMC
-14) Uma introdução às f-strings (formatação de strings)
-15) Formatação de strings com método format
-16) Usando a função input
-17) Introdução aos blocos de codigos: if/elif/else (condicionais)
+12) Uma introdução às f-strings (formatação de strings)
+13) Formatação de strings com método format
+14) Usando a função input
+15) Introdução aos blocos de codigos: if/elif/else (condicionais)
