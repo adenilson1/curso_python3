@@ -17,3 +17,5 @@
 15) Introdução aos blocos de codigos: if/elif/else (condicionais)
 16) if, elif e else: entendo o fluxo do interpretador em condicionais
 17) O debugger do VS Code e o interpretador do Python lendo os códigos
+18) Operadores relacionais (de comparação) em Python
+19) Exercício de programação com if e comparação
