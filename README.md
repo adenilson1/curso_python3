@@ -19,3 +19,4 @@
 17) O debugger do VS Code e o interpretador do Python lendo os códigos
 18) Operadores relacionais (de comparação) em Python
 19) Exercício de programação com if e comparação
+20) Operador Lógico "and"
