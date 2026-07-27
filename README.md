@@ -20,3 +20,4 @@
 18) Operadores relacionais (de comparação) em Python
 19) Exercício de programação com if e comparação
 20) Operador Lógico "and"
+21) Operador Lógico "or"
