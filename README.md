@@ -21,3 +21,4 @@
 19) Exercício de programação com if e comparação
 20) Operador Lógico "and"
 21) Operador Lógico "or"
+22) Operador lógico "not"
