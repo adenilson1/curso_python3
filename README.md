@@ -22,3 +22,4 @@
 20) Operador Lógico "and"
 21) Operador Lógico "or"
 22) Operador lógico "not"
+23) Operadores in e not in
