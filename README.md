@@ -23,3 +23,4 @@
 21) Operador Lógico "or"
 22) Operador lógico "not"
 23) Operadores in e not in
+24) Interpolação de strings com % em Python
