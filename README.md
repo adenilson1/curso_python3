@@ -26,3 +26,4 @@
 24) Interpolação de strings com % em Python
 25) Formação de strings com f-strings
 26) Fatiamento de strings e a função len
+27) Exercício
