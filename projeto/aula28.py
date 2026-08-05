@@ -35,6 +35,9 @@ else:
     else:
         print(f'{nome}: não contém espaços')
 
+    if 'n' in nome:
+        print(f'{nome} tem a letra n')
+
     print(f'Seu nome {nome} tem {len(nome)} letras')
     print(f'A primeira letra do seu nome é {nome[0]}')
     print(f'A última letra do seu nome {nome[len(nome) - 1]}')
