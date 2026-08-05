@@ -24,3 +24,4 @@
 22) Operador lógico "not"
 23) Operadores in e not in
 24) Interpolação de strings com % em Python
+25) Formação de strings com f-strings
