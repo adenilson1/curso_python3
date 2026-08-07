@@ -29,3 +29,4 @@
 27) Exercício
 28) Introdução ao try e except para captura erros (exceptions)
 29) Parte 1 - Variáveis, constantes e complexidade de código
+30) Parte 2 - Variáveis, constantes e complexidade de código
