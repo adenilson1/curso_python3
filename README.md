@@ -27,3 +27,4 @@
 25) Formação de strings com f-strings
 26) Fatiamento de strings e a função len
 27) Exercício
+28) Introdução ao try e except para captura erros (exceptions)
