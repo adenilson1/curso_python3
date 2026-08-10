@@ -34,3 +34,4 @@
 32) Flags, is not e None
 33) Exercício
 34) Resolução - primeiro enunciado
+35) Resolução - segundo enunciado
