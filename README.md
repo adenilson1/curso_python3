@@ -33,3 +33,4 @@
 31) id - A identidade do valor que está na memória
 32) Flags, is not e None
 33) Exercício
+34) Resolução - primeiro enunciado
