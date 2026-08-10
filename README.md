@@ -35,3 +35,4 @@
 33) Exercício
 34) Resolução - primeiro enunciado
 35) Resolução - segundo enunciado
+35) Resolução - terceiro enunciado
