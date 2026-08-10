@@ -1,2 +1,6 @@
+condicao = False
 
-# Resolução:
+if condicao:
+    print('Faça algo')
+else:
+    print('Não faça algo')
