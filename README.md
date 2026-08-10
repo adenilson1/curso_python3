@@ -32,3 +32,4 @@
 30) Parte 2 - Variáveis, constantes e complexidade de código
 31) id - A identidade do valor que está na memória
 32) Flags, is not e None
+33) Exercício
