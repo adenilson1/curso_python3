@@ -36,3 +36,4 @@
 34) Resolução - primeiro enunciado
 35) Resolução - segundo enunciado
 35) Resolução - terceiro enunciado
+36) Conversa - tios built-in, documentação, tipo imútavel, métodos de string

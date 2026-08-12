@@ -1,6 +1,3 @@
-condicao = False
-
-if condicao:
-    print('Faça algo')
-else:
-    print('Não faça algo')
+outra_variavel = f'{string[:3]} ABC{string[4:]}'
+# print(string)
+# print(outra_variavel)
