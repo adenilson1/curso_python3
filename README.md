@@ -37,3 +37,4 @@
 35) Resolução - segundo enunciado
 35) Resolução - terceiro enunciado
 36) Conversa - tios built-in, documentação, tipo imútavel, métodos de string
+37) While e break - Estruturas de repetição
