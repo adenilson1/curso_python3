@@ -38,3 +38,4 @@
 35) Resolução - terceiro enunciado
 36) Conversa - tios built-in, documentação, tipo imútavel, métodos de string
 37) While e break - Estruturas de repetição
+38) While - Condição em detalhes
