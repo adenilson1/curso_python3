@@ -40,3 +40,4 @@
 37) While e break - Estruturas de repetição
 38) While - Condição em detalhes
 40) Operadores de atribuição com operadores aritméticos
+41) While + continue - pulando alguma repetição
