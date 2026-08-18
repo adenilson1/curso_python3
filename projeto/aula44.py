@@ -13,5 +13,6 @@ while contador < tamanho_nome:
     novo_nome += '*' + letra
     contador += 1
 
+novo_nome += '*'
 print(nome)
 print(novo_nome)
