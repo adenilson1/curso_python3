@@ -42,3 +42,4 @@
 40) Operadores de atribuição com operadores aritméticos
 41) While + continue - pulando alguma repetição
 42) While + while (laços internos)
+43) Exercício - While
